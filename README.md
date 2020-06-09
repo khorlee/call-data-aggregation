@@ -1,4 +1,4 @@
-# Background & Assignment
+# Background
 At the telecom company where you are working there is a network switch producing output records of subscriber phone calls for predefined 
 intervals. As a result, long calls may result in partial records. To be able to bill your subscribers, their total call 
 duration must be calculated for each call.  
